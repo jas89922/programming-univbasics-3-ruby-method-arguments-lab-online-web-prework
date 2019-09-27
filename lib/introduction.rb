@@ -8,7 +8,7 @@
 #  puts "Hi, my name is #{name}."
 #end
 
-#def introduction_with_language(name = "Jasmine", language = "Ruby")
+#def introduction_with_language("Jasmine", "Ruby")
 #  puts "Hi, my name is #{name} and I am learning to program in #{language}."
 #end
 
