@@ -5,10 +5,10 @@
 
 
 # def introduction("Jasmine")
-#  puts "Hi, my name is #{Jasmine}."
+#  puts "Hi, my name is #{name}."
 #end
 
-#def introduction_with_language("Jasmine", "Ruby")
+#def introduction_with_language(name, language)
 #  puts "Hi, my name is #{name} and I am learning to program in #{language}."
 #end
 
